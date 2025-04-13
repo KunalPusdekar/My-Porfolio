@@ -1,1 +1,55 @@
-node_modules
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+dist/
+build/
+
+# Production logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS-related
+.DS_Store
+Thumbs.db
+
+# IDEs & editors
+.vscode/
+.idea/
+*.sw?
+*.sublime-workspace
+*.sublime-project
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+.pnpm-debug.log
+*.tgz
+.cache/
+turbo/
+
+# Next.js telemetry
+.next-tasks/
+
+# Custom cursor scripts or blobs (if temp-generated)
+cursor-debug.js
+
+# Public uploads (optional)
+public/uploads/
