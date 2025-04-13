@@ -1,6 +1,6 @@
 "use client";
 import { useView } from "@/contexts/ViewContext";
-import { Icon } from "@iconify/react/dist/iconify.js";
+import { Icon } from "@iconify/react";
 import { Link } from "react-scroll";
 import React from "react";
 
