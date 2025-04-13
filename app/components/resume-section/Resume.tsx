@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { Syne } from "next/font/google";
 import { motion } from "framer-motion";

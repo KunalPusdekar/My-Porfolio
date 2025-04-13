@@ -1,3 +1,4 @@
+"use client";
 import React, { useEffect } from "react";
 import FolioCard from "./FolioCard";
 import Title from "../ui/Title";
